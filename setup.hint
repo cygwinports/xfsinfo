@@ -1,0 +1,4 @@
+category: X11
+requires: cygwin libFS6
+sdesc: "Xorg font server information utility"
+ldesc: "Xorg font server information utility"

@@ -1,4 +1,4 @@
 category: X11
-requires: cygwin libFS6
+requires: libFS6
 sdesc: "X.Org font server information utility"
 ldesc: "X.Org font server information utility"

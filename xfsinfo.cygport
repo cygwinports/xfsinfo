@@ -1,0 +1,8 @@
+inherit xorg
+
+NAME="xfsinfo"
+VERSION=1.0.2
+RELEASE=1
+CATEGORY="X11"
+SUMMARY="X.Org font server information utility"
+DESCRIPTION="X.Org font server information utility"

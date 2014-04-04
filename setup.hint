@@ -1,4 +1,0 @@
-category: X11
-requires: libFS6
-sdesc: "X.Org font server information utility"
-ldesc: "X.Org font server information utility"
